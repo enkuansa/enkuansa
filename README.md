@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Elias, an econ + data science enthusiast.
+I'm Elias, an econ + data science enthusiast. 
 
 
 I use data and knowledge of economics to explore real world problems. Lately, I've been especially interested in economic transformation—understanding why some societies prosper, how technology shapes development, and what data can teach us about both.
