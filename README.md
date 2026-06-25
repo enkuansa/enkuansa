@@ -4,11 +4,9 @@ I'm Elias, an economics and data science enthusiast.
 
 I use economics and data to better understand real-world problems.
 
-Lately, I've been especially interested in economic transformation—understanding why some societies prosper, how technology shapes development, and what data can teach us about both.
+Lately, I've been especially interested in economic transformation,i.e., to understand why some societies prosper, how technology shapes development, and what data can teach us about both.
 
 Most of what you'll find here are projects, experiments, and research driven by my curiosity in various topics: from finance to healthcare, energy, poverty, sustainability, and everything in between.
-
----
 
 ### A Bit About Me
 
