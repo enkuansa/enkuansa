@@ -8,6 +8,7 @@ I use data and knowledge of economics to explore real world problems. Lately, I'
 Most of what you'll find here are projects, experiments, and research driven by my curiosity in various topics: from finance to healthcare, energy, poverty, sustainability, and everything in between.
 
 A bit about me:
+
   ⚽ Soccer fan
   🌍 Passionate about economic development
   🤖 Curious about emerging technologies
